@@ -19,7 +19,7 @@ This project focuses on analyzing customer success and revenue performance using
 
 Before building the dashboard, the data was carefully reviewed and prepared. This involved cleaning inconsistent values, handling missing data, standardizing formats, and organizing the data into structured tables. Additional calculated fields were created using Excel formulas to support meaningful analysis.
 
-#**Analysis Approach**
+# **Analysis Approach**
 
 The analysis was carried out using pivot tables and Excel functions to summarize and explore customer behavior and revenue performance. Key metrics were analyzed to understand which customers contribute the most value and how revenue changes over time.
 
