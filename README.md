@@ -16,11 +16,11 @@ KPI & Trend Analysis
 
 Charts & Dashboards
 
-Projects
+# **Projects**
 
 Each folder in this repository represents a separate Excel-based project.
 Open any folder to view the dataset, analysis, and dashboard file.
 
-Author
+# **Author**
 
-Muhammad Tariq
+**Muhammad Tariq**
