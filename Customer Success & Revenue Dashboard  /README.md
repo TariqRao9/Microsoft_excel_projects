@@ -48,5 +48,3 @@ This project was created as part of my learning and portfolio development. It de
 # **Author :**
 
 **MUHAMMAD TARIQ**
-
-This project was created as part of my learning and portfolio development. It demonstrates practical experience in Excel-based data analysis, dashboard creation, and business reporting using real-world analytical techniques.
