@@ -1,10 +1,10 @@
-### ****Customer Success and Sales Performance Dataset****
+# ****Customer Success and Sales Performance Dataset****
 
-# **Overview**
+## **Overview**
 
 This dataset contains granular transaction-level data used for analyzing Customer Success and Sales Performance. It covers various dimensions of the customer lifecycle, from acquisition and product purchase to delivery performance and post-purchase satisfaction. The data is designed to identify drivers of customer happiness and operational efficiency.
 
-# **Data Source**
+## **Data Source**
 
 This dataset is downloaded from Kaggel 
 
@@ -12,7 +12,7 @@ This dataset is downloaded from Kaggel
 
 Scope: 5,780 records across multiple states and product lines.
 
-# **Data Structure & Key Segments**
+## **Data Structure & Key Segments**
 
 The data spans three critical business domains:
 
